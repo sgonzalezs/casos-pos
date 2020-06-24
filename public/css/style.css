@@ -1,0 +1,71 @@
+#btnsMenuBody div{
+	background: #6495ED;
+	color: #fff;
+}
+
+#btnsMenuBody a:hover, #tbodyCases a:hover{
+ 	opacity: 0.6;
+ }
+
+#tbodyCases .fa, #tbodyHistory .fa, .iconFolder,  #dataUsers .fa{
+	font-size: 20px;
+ 	padding: 5px;
+ 	border-radius: 5px; 
+}
+
+.fa-eye{
+ 	background-color: blue;
+ 	color: white;
+}
+
+#tbodyHistory .fa-check-square{
+	background-color: green;
+	color: white; 
+}
+.iconFolder{
+	background-color: #434343;
+	color: white; 
+}
+
+#tbodyCases a, #tbodyHistory a{
+ 	margin-left: 10px;
+}
+
+#tbodyMyCases .fa{
+	font-size: 20px;
+ 	padding: 5px;
+ 	border-radius: 5px; 
+}
+
+#tbodyMyCases .fa-eye{
+ 	background-color: blue;
+ 	color: white;
+}
+
+#tbodyMyCases a{
+ 	margin-left: 10px;
+}
+
+#tbodyMyCases a:hover, #tbodyHistory a:hover, .iconFolder:hover, .fa:hover{
+ 	opacity: 0.7;	
+}
+
+.h4Cases{
+ 	font-family: Vegur;
+ 	
+ }
+
+ #sectionAsignados{
+ 	width: 100%; 
+ 	min-width: 600px;
+ }
+
+ .iconUserDelete{
+ 	background: red;
+ 	color: white;
+ 	margin-right: 5px;
+ }
+
+
+
+
